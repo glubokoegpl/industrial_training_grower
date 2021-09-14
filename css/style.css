@@ -1,0 +1,92 @@
+@font-face {
+  font-family: 'AcromThin';
+  src:url('fonts/Acrom-Thin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AcromLight';
+  src:url('fonts/Acrom-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AcromRegular';
+  src:url('../fonts/Acrom-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AcromMedium';
+  src:url('fonts/Acrom-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'AcromBold';
+  src:url('fonts/Acrom-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AcromExtraBold';
+  src:url('../fonts/Acrom-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+/*Шрифт, цвет основного фона, цвет и размер шрифта*/
+body {
+  font-family: "AcromRegular";
+  font-size: 16px;
+}
+
+.navbar {
+  background-image: url("../img/fon.png");
+}
+.dropdown:hover .dropdown-menu {display: block;}a
+
+.special-color {
+  background-color: #fff !important;
+}
+.dropdown-menu.mega-menu.v-2 .sub-menu ul li a {
+  color: #000 !important;
+  /*color: rgba(255, 255, 255, 0.7);*/
+}
+
+html, body {
+  height: 100%;
+}
+
+h1 {
+  color: #004F00;
+  font-family: "AcromExtraBold";
+}
+
+h2 {
+  font-family: "AcromExtraBold";
+  color: #1D7715 !important;
+}
+
+h3, h4, h5, h6 {
+  font-family: "AcromRegular";
+  color: #33842c !important;
+}
+
+footer {
+  background-image: url("../img/fon.png");
+}
+
+.embed-responsive-21by9::before {
+  padding-top: 39.5% !important;
+}
+
+.navbar .mega-dropdown .dropdown-menu.mega-menu .sub-menu ul li a:hover {
+    background-color: rgba(148, 188, 48, 0.2) !important;
+    -webkit-transition: .3s;
+    transition: .3s
+}

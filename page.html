@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="author" content="Шудель Дмитрий Леонидович, Грекова Анастасия Анатольевна">
+  <title>ЭСО "Производственное обучение"</title>
+  <link rel="icon" href="ico/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="css/bootstrap.css">
+  <link rel="stylesheet" href="css/mdb.css">
+  <link rel="stylesheet" href="css/awesome/all.css">
+  <link rel="stylesheet" href="css/style.css">
+<script defer src="js/all.js"></script>
+<script src="content/constants.page"></script>
+  <script>
+    var link = location.href; // location - http://site.com/page.htm?p=1&f=2
+    var url = link.split(/\?/); // ... and p=1&f=2
+    var vrs = url[1].split(/&/); // p=1,f=2
+  </script>
+</head>
+<body>
+  <header>
+    <nav class="navbar navbar-expand-lg navbar-dark scrolling-navbar">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="index.html"><script>document.write(title);</script></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#basicExampleNav" aria-controls="basicExampleNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="basicExampleNav">
+          <script>document.write(topmenu);</script>
+        </div>
+        <script>document.write(itemsicons);</script>
+      </div>
+    </nav>
+  </header>
+    <script type="text/javascript">
+      document.write('<script type="text/javascript" src="content/'+vrs+'"><\x2fscript>');
+  </script>
+  <main>
+    <script>document.write(content);</script>
+  </main>
+  <footer class="page-footer font-small unique-color-dark pt-0">
+    <script>document.write(footer);</script>
+  </footer>
+  <script type="text/javascript" src="js/jquery.min.js"></script>
+  <script type="text/javascript" src="js/popper.min.js"></script>
+  <script type="text/javascript" src="js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="js/mdb.min.js"></script>
+</body>
+</html>

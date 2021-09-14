@@ -1,0 +1,6 @@
+(function(){var loadHandler=window['sl_{955D5E6F-6B68-4216-9A34-BB1F59FBD05E}'];loadHandler&&loadHandler(45, '<div id="spr0_6389ac9"><div id="spr1_6389ac9" class="kern slide"><img id="img3_6389ac9" src="data/img224.png" width="720px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_6389ac9" class="kern slide"><div id="spr3_6389ac9" style="left:570px;top:355px;"><img id="img0_6389ac9" src="data/img221.png" width="150" height="185" alt="D:\\Алехнович\\т-1 Биологические особенности овощ. культур\\0002-002-Problema.jpg"/></div><div id="spr4_6389ac9" style="left:33px;top:20px;"><img id="img1_6389ac9" src="data/img222.png" width="656" height="99" alt="Третья фаза"/></div><div id="spr5_6389ac9" style="left:17px;top:133px;"><img id="img2_6389ac9" src="data/img223.png" width="658" height="326" alt="— прорастание семени. Начинает функционировать зародыш, образуется корешок, выходящий за пределы семенной оболочки. Прорастание происходит при определенной температуре. Семена редиса, салата, моркови, брюквы и других холодостойких растений прорастают при температуре 2...5°С; фасоли, сахарной кукурузы, клубни картофеля— при 8... 10 °С; огурца, \
+кабачка, тыквы — при 12...15°С; дыни, арбуза, \
+баклажана — при 16... 17 °С. При недостатке \
+тепла набухшие семена не прорастают \
+и могут загнить.\
+"/></div></div></div>');})();

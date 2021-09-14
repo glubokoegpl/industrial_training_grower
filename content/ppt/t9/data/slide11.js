@@ -1,0 +1,8 @@
+(function(){var loadHandler=window['sl_{2B912CDF-94D0-4CAE-837A-40746B00F2AE}'];loadHandler&&loadHandler(10, '<div id="spr0_647ef2a"><div id="spr1_647ef2a" class="kern slide"><img id="img7_647ef2a" src="data/img52.png" width="720px" height="540px" alt="" style="left:0px;top:0px;"/><div id="spr3_647ef2a" style="left:-0.75px;top:-0.563px;"><img id="img0_647ef2a" src="data/img41.png" width="721.5" height="82" alt=""/></div><div id="spr4_647ef2a" style="left:345px;top:-0.563px;"><img id="img1_647ef2a" src="data/img42.png" width="375" height="47.812" alt=""/></div><div id="spr5_647ef2a" style="left:-2.751px;top:-1.714px;"><div id="spr6_647ef2a" style="left:0px;top:34.512px;"><img id="img2_647ef2a" src="data/img43.png" width="722.775" height="50.118" alt=""/></div><div id="spr7_647ef2a" style="left:0.649px;top:40.362px;"><img id="img3_647ef2a" src="data/img44.png" width="723.63" height="41.027" alt=""/></div></div></div><div id="spr2_647ef2a" class="kern slide"><div id="spr8_647ef2a" style="left:66px;top:46px;"><img id="img4_647ef2a" src="data/img49.png" width="591" height="98" alt="Агротехнические требования возделывания перца. "/></div><div id="spr9_647ef2a" style="left:41px;top:153px;"><img id="img5_647ef2a" src="data/img50.png" width="551" height="354" alt="Для сеянцев, кроме температуры и влажности также актуальна и глубина заделки семян в грунт: самой \
+оптимальной глубиной \
+считается 0,5-1 см. \
+При более глубокой \
+заделке, толстый \
+слой грунта будет \
+препятствовать \
+прорастанию семян."/></div><div id="spr10_647ef2a" style="left:389px;top:259px;"><img id="img6_647ef2a" src="data/img51.png" width="321" height="270" alt="D:\\Алехнович\\т-1 Биологические особенности овощ. культур\\zlee-net_01.jpg"/></div></div></div>');})();
